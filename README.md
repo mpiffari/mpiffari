@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sono Piffari Michele, studente @UniBG e app developer @QuanticInnovations.
+Sono Piffari Michele, freelance app developer in collaborazione con @QuanticInnovations.
 
 ## &#x1f4c8; My GitHub Stats
 
