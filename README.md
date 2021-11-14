@@ -25,11 +25,15 @@ Ciao, sono Michele Piffari
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelance+Software+Engineer;BLE%20|%20NFC%20|%20Low%20level%20protocol;Sempre%20alla%20ricerca%20di%20cose%20nuove&center=true&width=380&height=45"></a>
 </p>
 <hr/>
-<samp>
-	🔭 Sviluppatore software freelance incentrato sullo sviluppo di piattaforme mobile, sia native che cross-platform, volte alla gestione di comunicazioni di basso livello tramite BLE/NFC\n.
-	🌱 Attualmente sto migliorando le mie conoscenze sull'ambiente Xamarin e C#/.NET\n.
-	⚡ Appossionato di ciclismo 🚴 e sport all'aria aperta 🏃‍♂️⛰️.
-</samp>
+<h3 align="center">
+🔭 Sviluppatore software freelance incentrato sullo sviluppo di piattaforme mobile, sia native che cross-platform, volte alla gestione di comunicazioni di basso livello tramite BLE/NFC.
+<br/>
+<h3 align="center">
+🌱 Attualmente sto migliorando le mie conoscenze sull'ambiente Xamarin e C#/.NET.
+<br/>
+<h3 align="center">
+⚡ Appossionato di ciclismo 🚴 e sport all'aria aperta 🏃‍♂️⛰️.
+<br/>
 
 ## 🔥 Streak stats
 
