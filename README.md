@@ -1,17 +1,3 @@
-### Hi there 👋
-
-Sono Piffari Michele, freelance app developer in collaborazione con @QuanticInnovations.
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/Piffo/Piffo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piffo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Piffo/Piffo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Piffo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
-
 <!--
 **Piffo/Piffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,11 +34,31 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="http://github-readme-streak-stats.herokuapp.com?user=Piffo&theme=green_nur&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Piffo&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
+## 📈 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Piffo/Piffo">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Michele's stats" 
+	 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piffo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Piffo/Piffo">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Michele's stats" 
+	 src="https://github-readme-stats.vercel.app/api?username=Piffo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
+
+<!--
+TODO
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -130,6 +136,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashitanamdeo&custom_title=yashitanamdeo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
+-->
 
 <!-- https://github.com/sisodiya2421 -->
 ## 📫 Restiamo in contatto
@@ -139,5 +146,5 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://www.linkedin.com/in/m-piffari/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/michele.piffari/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="mailto:michele.piffari@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.strava.com/athletes/980849" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.strava.com/athletes/980849" target="_blank"><img src="https://img.icons8.com/windows/32/000000/strava.png" alt="Strava"/></a>
 </p>
