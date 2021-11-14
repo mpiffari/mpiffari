@@ -26,8 +26,8 @@ Ciao, sono Michele Piffari
 </p>
 <hr/>
 <samp>
-	🔭 Sviluppatore software freelance incentrato sullo sviluppo di piattaforme mobile, sia native che cross-platform, volte alla gestione di comunicazioni di basso livello tramite BLE/NFC.
-	🌱 Attualmente sto migliorando le mie conoscenze sull'ambiente Xamarin e C#/.NET.
+	🔭 Sviluppatore software freelance incentrato sullo sviluppo di piattaforme mobile, sia native che cross-platform, volte alla gestione di comunicazioni di basso livello tramite BLE/NFC\n.
+	🌱 Attualmente sto migliorando le mie conoscenze sull'ambiente Xamarin e C#/.NET\n.
 	⚡ Appossionato di ciclismo 🚴 e sport all'aria aperta 🏃‍♂️⛰️.
 </samp>
 
