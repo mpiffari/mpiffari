@@ -22,7 +22,7 @@ Ciao, sono Michele Piffari
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelance+Software+Engineer;BLE%20|%20NFC%20|%20Low%20level%20protocol;Sempre%20alla%20ricerca%20di%20cose%20nuove&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Freelance+Software+Engineer;BLE%20|%20NFC%20|%20Low%20level%20protocol;In%20cerca%20di%20cose%20nuove&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <h3 align="center">
