@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 Ciao, sono Michele Piffari
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
+ <img src="https://gpvc.arturio.dev/Piffo" alt="Profile views" align='right'/>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
