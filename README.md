@@ -141,5 +141,4 @@ TODO
 	<a href="https://www.linkedin.com/in/m-piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/michele.piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="mailto:michele.piffari@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Gmail"/></a>
-  <a href="https://www.strava.com/athletes/980849" target="_blank"><img src="https://img.icons8.com/windows/32/000000/strava.png" alt="Strava"/></a>
 </p>
