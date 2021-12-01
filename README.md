@@ -48,7 +48,7 @@ Ciao, sono Michele Piffari
 ## 📈 Le mie statistiche GitHub
 
 <p align="center">
-  <a href="https://github.com/mpiffari">
+  <a href="https://github.com/mpiffari/MichelePiffariLandingPageGit">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Michele's stats" 
 	 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpiffari&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
   </a>
@@ -56,7 +56,7 @@ Ciao, sono Michele Piffari
 </p>
 
 <p align="center">
-  <a href="https://github.com/mpiffari">
+  <a href="https://github.com/mpiffari/MichelePiffariLandingPageGit">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Michele's stats" 
 	 src="https://github-readme-stats.vercel.app/api?username=mpiffari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
   </a>
