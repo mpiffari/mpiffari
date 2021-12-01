@@ -1,5 +1,5 @@
 <!--
-**Piffo/Piffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mpiffari/mpiffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 Ciao, sono Michele Piffari
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/Piffo" alt="Profile views" align='right'/>
+ <img src="https://gpvc.arturio.dev/mpiffari" alt="Profile views" align='right'/>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -40,7 +40,7 @@ Ciao, sono Michele Piffari
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Piffo&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mpiffari&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> 🔥 </p>
 </p>
@@ -48,17 +48,17 @@ Ciao, sono Michele Piffari
 ## 📈 Le mie statistiche GitHub
 
 <p align="center">
-  <a href="https://github.com/Piffo/Piffo">
+  <a href="https://github.com/mpiffari">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Michele's stats" 
-	 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piffo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+	 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpiffari&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
   </a>
   <p align="center"> 🔥 </p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Piffo/Piffo">
+  <a href="https://github.com/mpiffari">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Michele's stats" 
-	 src="https://github-readme-stats.vercel.app/api?username=Piffo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+	 src="https://github-readme-stats.vercel.app/api?username=mpiffari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
   </a>
   <p align="center"> 🔥 </p>
 </p>
@@ -67,7 +67,7 @@ Ciao, sono Michele Piffari
 <details>
   <summary>⚡ Attività su GitHub</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Michele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piffo&custom_title=Michele's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Michele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mpiffari&custom_title=Michele's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
