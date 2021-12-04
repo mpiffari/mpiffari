@@ -72,9 +72,9 @@ Ciao, sono Michele Piffari
 </details>
 
 <details>
-  <summary>Visualizzatore del profilo</summary>
+  <summary>⚡  Visualizzatore del profilo</summary>
   <br/>
-   <a href="http://ghv.artzub.com/#user=mpiffari">/></a>
+   <a href="http://ghv.artzub.com/#user=mpiffari"> Dashboard</a>
   <br/>
 </details>
 
