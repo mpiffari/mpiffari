@@ -153,6 +153,7 @@ TODO
 	<!--<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>-->
 	<!--<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>-->
 	<a href="https://www.linkedin.com/in/m-piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/michele.piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/michele.piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
 	<a href="mailto:michele.piffari@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Gmail"/></a>
+	<a href="t.me/@m_piffo" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram--v2.png" alt="Gmail"/></a>
 </p>
