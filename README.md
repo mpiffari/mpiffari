@@ -156,4 +156,5 @@ TODO
 	<a href="https://www.facebook.com/michele.piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
 	<a href="mailto:michele.piffari@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Gmail"/></a>
 	<a href="https://t.me/@m_piffo" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram"/></a>
+	<a href="https://join.skype.com/invite/mXTgpVrsbzSe" target="_blank"><img src="https://img.icons8.com/color/48/000000/skype--v1.png" alt="Skype"/></a>
 </p>
