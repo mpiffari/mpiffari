@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](./[header])
-<h1 align="left">
+![Header](./[header.png])
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/mpiffari" alt="Profile views" align='right'/>
 <br/>
