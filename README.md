@@ -31,26 +31,14 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 <h3 align="center">
-🔭 Sviluppatore software freelance incentrato sullo sviluppo di piattaforme mobile, sia native che cross-platform, volte alla gestione di comunicazioni di basso livello tramite BLE/NFC.
+🔭 Sviluppatore software freelance in ambito mobile, sia iOS che cross-platform, volte alla gestione di comunicazioni di basso livello tramite BLE/NFC.
 <br/>
 <h3 align="center">
-🌱 Attualmente sto migliorando le mie conoscenze sull'ambiente Xamarin e C#/.NET.
+🌱 Attualmente sto migliorando le mie conoscenze sull'ambiente Xamarin e C#/.NET Framework.
 <br/>
 <h3 align="center">
 ⚡ Appossionato di ciclismo 🚴 e sport all'aria aperta 🏃‍♂️⛰️.
 <br/>
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mpiffari&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center"> 🔥 </p>
-</p>
-
-## 📈 Le mie statistiche GitHub
 
 <p align="center">
   <a href="https://github.com/mpiffari/MichelePiffariLandingPageGit">
