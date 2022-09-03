@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 <h3 align="center">
 ⚡ Appossionato di ciclismo 🚴 e sport all'aria aperta 🏃‍♂️⛰️.
 <br/>
+<br/>
+<br/>
+<br/>
 
-## Languages and Tools  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
@@ -59,10 +61,11 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<p align="center">
+<br/>
+<div align="center">  
 	<a href="https://www.linkedin.com/in/m-piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/michele.piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
 	<a href="mailto:michele.piffari@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Gmail"/></a>
 	<a href="https://t.me/@m_piffo" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram"/></a>
-	<a href="https://join.skype.com/invite/mXTgpVrsbzSe" target="_blank"><img src="https://img.icons8.com/color/48/000000/skype--v1.png" alt="Skype"/></a>
-</p>
+	<a href="https://join.skype.com/invite/mXTgpVrsbzSe" target="_blank"><img src="https://img.icons8.com/color/48/000000/skype--v1.png" alt="Skype"/></a> 
+	</div>
