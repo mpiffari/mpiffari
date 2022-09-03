@@ -13,12 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!--![Header Banner](/header.png)-->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/mpiffari" alt="Profile views" align='right'/>
+    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 <br/>
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>
+
+<br />
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -85,7 +90,6 @@ Here are some ideas to get you started:
   <br/>
 </details>
 
-
 <!--
 TODO
 ## 🛠️ My favorite tools
@@ -148,7 +152,9 @@ TODO
 -->
 
 <!-- https://github.com/sisodiya2421 -->
+
 ## 📫 Restiamo in contatto
+
 <p align="center">
 	<!--<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>-->
 	<!--<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>-->
