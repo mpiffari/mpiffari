@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="75" /></a>  
 </div>
 
+<br/>
 <p align="center">
 	<a href="https://www.linkedin.com/in/m-piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/michele.piffari/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
